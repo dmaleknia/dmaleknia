@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dmaleknia
-- 👀 I’m interested in sous vide cooking, music production, and technology education. 
-- 🌱 I’m currently an Enterprise Business Representative at GitHub working with the mid-market account management team.  
-- 💞️ I’m looking to collaborate on outreach projects for CS education that empower engineers from non-traditional backgrounds. 
+- 🌱 I’m currently an Account Manager at GitHub working with corporate accounts.  
 - 📫 How to reach me... dmaleknia@github.com
 
 <!---
