@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmaleknia
-- 🌱 I’m currently an Account Manager at GitHub working with corporate accounts.  
-- 📫 How to reach me... dmaleknia@github.com
+- 🌱 I’m currently a Go to Market Manager at Augment Computing in Palo Alto, CA. 
+- 📫 How to reach me... dominic@augmentcode.com
 
 <!---
 dmaleknia/dmaleknia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
