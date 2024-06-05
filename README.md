@@ -1,6 +1,5 @@
 <!-- Example badge usage -->
 ![GitHub followers](https://img.shields.io/github/followers/dmaleknia?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/dmaleknia?label=Follow&style=social)
 
 <!-- Adding an image or GIF -->
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
