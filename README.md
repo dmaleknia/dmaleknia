@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/dmaleknia?label=Follow&style=social)
 
 <!-- Adding an image or GIF -->
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/6ib6KPmkeAjDTxMxij" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-6ib6KPmkeAjDTxMxij">via GIPHY</a></p>
 
 <!-- Using a quote block for emphasis -->
 > "Innovative Account Executive | Driving Growth and Building Lasting Partnerships | Strategic Sales Leader"
