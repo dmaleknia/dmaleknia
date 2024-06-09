@@ -28,7 +28,7 @@
 
 🌐 Get in Touch
 
-- 📧 Email: dominic@augmentcode.com
+- 📧 Email: dmaleknia@outlook.com
 - 🔗 LinkedIn: [linkedin.com/in/dominic-m](https://www.linkedin.com/in/dominic-m/)
 - 🌍 Location: San Francisco, CA 
 
