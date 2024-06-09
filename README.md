@@ -13,8 +13,6 @@
 
 👋 Hi, I’m Dominic Maleknia!
 
-🌟 Founding Account Executive at Augment - Launching the next-gen programming assistant.
-
 💼 I’m passionate about driving growth, building lasting partnerships, and delivering high-impact product demonstrations in the enterprise software solutions space.
 
 🔍 What I Do
